@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">harutin</string>
+
+    <string name="some_id1">하</string>
+    <string name="some_id11">루</string>
+    <string name="some_id111">의</string>
+
+    <string name="some_id2">루</string>
+    <string name="some_id22">틴</string>
+    <string name="some_id222">을</string>
+    <string name="some_id3">좀 더 특별하게</string>
+
+    <string name="harutine">HARUTINE</string>
+
+
+    <string name="login_1">하루의 루틴,</string>
+    <string name="login_2">시작해 볼까요?</string>
+
+</resources>
